@@ -1,0 +1,22 @@
+.QuestionCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+    border: 1px solid #eee;
+}
+
+.QuestionCard ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.QuestionCard li button {
+    margin: 5px;
+    width: 100%;
+}
