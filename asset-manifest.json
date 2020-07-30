@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mock-risk-app/static/css/main.dfd7c2a8.chunk.css",
+    "main.js": "/mock-risk-app/static/js/main.30a1ea0e.chunk.js",
+    "main.js.map": "/mock-risk-app/static/js/main.30a1ea0e.chunk.js.map",
+    "runtime-main.js": "/mock-risk-app/static/js/runtime-main.115f7efd.js",
+    "runtime-main.js.map": "/mock-risk-app/static/js/runtime-main.115f7efd.js.map",
+    "static/js/2.af50f3d3.chunk.js": "/mock-risk-app/static/js/2.af50f3d3.chunk.js",
+    "static/js/2.af50f3d3.chunk.js.map": "/mock-risk-app/static/js/2.af50f3d3.chunk.js.map",
+    "index.html": "/mock-risk-app/index.html",
+    "precache-manifest.103cb6ec548a8d7ec7c0ff3ae59842f3.js": "/mock-risk-app/precache-manifest.103cb6ec548a8d7ec7c0ff3ae59842f3.js",
+    "service-worker.js": "/mock-risk-app/service-worker.js",
+    "static/css/main.dfd7c2a8.chunk.css.map": "/mock-risk-app/static/css/main.dfd7c2a8.chunk.css.map",
+    "static/js/2.af50f3d3.chunk.js.LICENSE.txt": "/mock-risk-app/static/js/2.af50f3d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.115f7efd.js",
+    "static/js/2.af50f3d3.chunk.js",
+    "static/css/main.dfd7c2a8.chunk.css",
+    "static/js/main.30a1ea0e.chunk.js"
+  ]
+}
